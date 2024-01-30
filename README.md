@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://usagif.com/wp-content/uploads/gifs/starfall-gif-45.gif" width="600" />
 </p>
-<h1 align="center">Salam-u-Alaikum 👋, I'm Ahmed Azlouk</h1>
+<h1 align="center">Hello 👋, I'm Ahmed Azlouk</h1>
 <h3 align="center">Driven MERN Developer, Mobile App Aficionado, and Lifelong Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azlouk96&label=Profile%20views&color=0e75b6&style=flat" alt="azlouk96" /> </p>
