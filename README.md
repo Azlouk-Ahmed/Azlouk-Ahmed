@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://usagif.com/wp-content/uploads/gifs/starfall-gif-45.gif" width="600" />
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" height="400" width="1100" />
 </p>
 <h1 align="center">Hello 👋, I'm Ahmed Azlouk</h1>
-<h3 align="center">Driven MERN Developer, Mobile App Aficionado, and Lifelong Learner</h3>
+<h3 align="center">JS Lover, Driven MERN Developer, Mobile App Aficionado, and Lifelong Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azlouk96&label=Profile%20views&color=0e75b6&style=flat" alt="azlouk96" /> </p>
 
