@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **ahmedazlouk9@gmail.com**
 
-- ⚡ Take a look at my portfolio. **https://drive.google.com/file/d/1UPnndNXVQ5Hf1oQfSOxlQSVZyUymZtgm/view?usp=sharing**
 
 
 
