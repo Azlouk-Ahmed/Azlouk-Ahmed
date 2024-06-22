@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ahmedazlouk9@gmail.com**
 
-- ⚡ Fun fact **Love pasta , Strongest chess player on the planet, Cool and funny guy**
+- ⚡ Take a look at my portfolio. **https://drive.google.com/file/d/1UPnndNXVQ5Hf1oQfSOxlQSVZyUymZtgm/view?usp=sharing**
 
 
 
