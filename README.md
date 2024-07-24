@@ -41,12 +41,12 @@
 ### Architectures:
 | Atomic Architecture | MVC |
 |----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/architecture/architecture-original.svg" title="Atomic Architecture" alt="Atomic Architecture" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mvc/mvc-original.svg" title="MVC" alt="MVC" width="55" height="55"/> |
+| <img src="https://cdn4.vectorstock.com/i/1000x1000/81/83/isolated-science-atom-design-vector-11208183.jpg" title="Atomic Architecture" alt="Atomic Architecture" width="55" height="55"/> | <img src="https://miro.medium.com/v2/resize:fit:1400/1*q65BMUTmEV83OikZPFvnRA.jpeg" title="MVC" alt="MVC" width="55" height="55"/> |
 
 ### Methodologies:
 | Scrum |
 |----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/scrum/scrum-original.svg" title="Scrum" alt="Scrum" width="55" height="55"/> |
+| <img src="https://pluralsight2.imgix.net/paths/images/scrum-a5c44d8364.png" title="Scrum" alt="Scrum" width="55" height="55"/> |
 
 ### Databases:
 | MongoDB | Oracle Database | MySQL | 
