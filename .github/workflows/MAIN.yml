@@ -30,6 +30,7 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add dist/*
           git commit -m "Generated snake game"
-          git push https://x-access-token:${{ secrets.ACTIONS_PAT }}@github.com/Azlouk-Ahmed/Azlouk-Ahmed.git
+          git push https://x-access-token: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@github.com/Azlouk-Ahmed/Azlouk-Ahmed.git
         env:
           ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
+
