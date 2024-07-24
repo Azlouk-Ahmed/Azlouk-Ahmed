@@ -45,11 +45,15 @@
   <img src="https://komarev.com/ghpvc/?username=Azlouk-Ahmed&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 
+---
+
+  
+![snake gif](https://github.com/Azlouk-Ahmed/Azlouk-Ahmed/blob/output/github-snake-dark.svg)
+
+
+---
 
 
 
