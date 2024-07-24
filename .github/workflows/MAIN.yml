@@ -25,7 +25,6 @@ jobs:
         run: ls -alh dist
 
       - name: Commit and Push
-        if: success() && steps.list_output_files.outputs.files_exists == 'true'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
