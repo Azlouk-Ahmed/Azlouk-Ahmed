@@ -48,7 +48,6 @@
 ### Architectures:
 | Atomic Architecture | MVC |
 |----------|----------|
-| <img src="https://cdn4.vectorstock.com/i/1000x1000/81/83/isolated-science-atom-design-vector-11208183.jpg" title="Atomic Architecture" alt="Atomic Architecture" width="55" height="55"/> | <img src="https://miro.medium.com/v2/resize:fit:1400/1*q65BMUTmEV83OikZPFvnRA.jpeg" title="MVC" alt="MVC" width="55" height="55"/> |
 
 ### Methodologies:
 | Scrum |
