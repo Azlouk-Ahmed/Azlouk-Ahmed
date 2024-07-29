@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **ahmedazlouk9@gmail.com**
 
-- ⚡ Take a look at my resume. **https://drive.google.com/file/d/1QiUo0rlPr0hkT6oidOS9mG4-XTXw7wvR/view?usp=drive_link**
+- ⚡ Take a look at my resume. **https://drive.google.com/file/d/1wRVEOBQOoKJyEoqtcdRavLs2fJAq9Mtx/view?usp=sharing**
 
 
 ---
