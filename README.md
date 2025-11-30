@@ -8,7 +8,7 @@
 ![LeetCode Stats](metrics.plugin.leetcode.svg)
 
 
-![Coding Habits](./metrics.plugin.habits.svg)
+![reactions](./metrics.plugin.reactions.svg)
 
 ---
 
