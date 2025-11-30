@@ -5,6 +5,7 @@
 
 ![Isometric Commit Calendar](metrics.plugin.isocalendar.fullyear.svg)
 
+![LeetCode Stats](metrics.plugin.leetcode.svg)
 
 ---
 
