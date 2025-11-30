@@ -1,0 +1,26 @@
+name: GitHub Metrics - Starred Topics
+
+on:
+  schedule:
+    - cron: "0 * * * *"  
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Starred Topics Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.svg
+          token: NOT_NEEDED
+          base: ""  
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          plugin_topics_mode: starred  # default, you can change to labels or icons
+          plugin_topics_sort: stars  # sort by most stars
