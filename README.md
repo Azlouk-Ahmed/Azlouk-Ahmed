@@ -2,9 +2,9 @@
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" height="400" width="1100" />
 </p>
 <h1 align="center">Hello 👋, I'm Ahmed Azlouk</h1>
-<h3 align="center">JS Lover, Driven MERN Developer, Mobile App Aficionado, and Lifelong Learner</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Azlouk-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Azlouk-Ahmed" /> </p>
+![Isometric Commit Calendar](metrics.plugin.isocalendar.fullyear.svg)
+
 
 ---
 
