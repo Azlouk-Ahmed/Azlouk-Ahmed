@@ -17,7 +17,7 @@ jobs:
           plugin_leetcode: yes
 
           # REQUIRED: Your LeetCode username
-          plugin_leetcode_user: Azlouk Ahmed
+          plugin_leetcode_user: m1n6R2bwuX
 
           # OPTIONAL: What to display
           plugin_leetcode_sections: solved, skills, recent
