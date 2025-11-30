@@ -1,0 +1,27 @@
+name: LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 * * * *"     # Update every hour
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          base: ""
+          token: NOT_NEEDED
+          plugin_leetcode: yes
+
+          # REQUIRED: Your LeetCode username
+          plugin_leetcode_user: Azlouk Ahmed
+
+          # OPTIONAL: What to display
+          plugin_leetcode_sections: solved, skills, recent
+
+          # OPTIONAL: Customize limits
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_limit_recent: 2
