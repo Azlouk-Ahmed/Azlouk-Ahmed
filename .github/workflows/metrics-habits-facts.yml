@@ -1,0 +1,26 @@
+name: Coding Habits - Facts
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Update every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+
+          # Optional: your timezone
+          config_timezone: Europe/Paris
