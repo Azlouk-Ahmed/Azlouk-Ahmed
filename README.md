@@ -7,6 +7,9 @@
 
 ![LeetCode Stats](metrics.plugin.leetcode.svg)
 
+
+![Coding Habits](./metrics.plugin.habits.svg)
+
 ---
 
 
