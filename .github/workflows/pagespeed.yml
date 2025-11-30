@@ -1,0 +1,27 @@
+name: Google PageSpeed Report
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.pagespeed.svg
+          token: NOT_NEEDED
+          base: ""
+
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://example.com
+
+          plugin_pagespeed_detailed: yes      # FCP, LCP, CLS, TTI, TBT
+          plugin_pagespeed_screenshot: yes     # optional screenshot
+          plugin_pagespeed_pwa: yes            # optional PWA check
