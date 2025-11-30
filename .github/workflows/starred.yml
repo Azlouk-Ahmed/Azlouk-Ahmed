@@ -19,7 +19,7 @@ jobs:
         with:
           filename: metrics.plugin.topics.svg
           token: NOT_NEEDED
-          base: ""  
+          base: "Azlouk-Ahmed"  
           plugin_topics: yes
           plugin_topics_limit: 12
           plugin_topics_mode: starred  # default, you can change to labels or icons
