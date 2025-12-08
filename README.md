@@ -12,11 +12,8 @@
 
 ---
 
+![snake gif](https://github.com/Azlouk-Ahmed/Azlouk-Ahmed/blob/output/github-snake-dark.svg)
 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Azlouk-Ahmed&theme=gruvbox" alt="Azlouk-Ahmed" />
-</div>
 
 ---
 
@@ -78,10 +75,7 @@
 ---
 
   
-![snake gif](https://github.com/Azlouk-Ahmed/Azlouk-Ahmed/blob/output/github-snake-dark.svg)
 
-
----
 
 
 
