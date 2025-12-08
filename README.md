@@ -20,13 +20,13 @@
 
 ---
 
-- 🌱 I’m currently learning **Flutter, DevOps , React Native**
+- 🌱 I’m currently learning **Machine Learning, IoT systems , React Native**
 
 - 💬 Ask me about **react, mongodb , nodejs , expressjs**
 
 - 📫 How to reach me **ahmedazlouk9@gmail.com**
 
-- ⚡ Take a look at my resume. **https://drive.google.com/file/d/1owI47EQeklPWGID4k2DXovVbobmNbpt_/view?usp=sharing**
+- ⚡ Take a look at my resume. **https://drive.google.com/file/d/1A4RcvNbim8OWMDHgEuLdTwNz0TuxWOhF/view?usp=drivesdk**
 
 
 ---
@@ -72,18 +72,6 @@
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Azlouk-Ahmed&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-
----
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Azlouk-Ahmed&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azlouk-Ahmed&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
- 
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Azlouk-Ahmed&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 
 
