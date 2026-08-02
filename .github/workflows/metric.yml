@@ -15,10 +15,11 @@ jobs:
         with:
           filename: metrics.plugin.myhabits.svg
           token: ${{ secrets.METRICS__TOKEN }}
+          committer_token: ${{ secrets.METRICS__TOKEN }}
           base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
+          plugin_habits_charts: no
+          plugin_habits_from: 100
+          plugin_habits_days: 7
           config_timezone: Europe/Paris
