@@ -36,13 +36,13 @@
 
 ---
 
-- 🌱 I’m currently learning **Machine Learning, IoT systems , React Native**
+- I’m currently learning **Machine Learning, IoT systems , React Native**
 
-- 💬 Ask me about **react, mongodb , nodejs , expressjs**
+- Ask me about **react, mongodb , nodejs , express.js**
 
-- 📫 How to reach me **ahmedazlouk9@gmail.com**
+- How to reach me **ahmedazlouk9@gmail.com**
 
-- ⚡ Take a look at my resume. **https://drive.google.com/file/d/1A4RcvNbim8OWMDHgEuLdTwNz0TuxWOhF/view?usp=drivesdk**
+- Take a look at my resume. **https://drive.google.com/file/d/1ISuSj1d1U4wXswqB5hRizQRyV1MqmWre/view?usp=sharing**
 
 
 ---
