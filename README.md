@@ -3,9 +3,20 @@
 </p>
 <h1 align="center">Hello 👋, I'm Ahmed Azlouk</h1>
 
+<table>
+<tr>
+<td valign="top">
+
 ![Isometric Commit Calendar](metrics.plugin.isocalendar.fullyear.svg)
 
+</td>
+<td valign="top">
+
 ![LeetCode Stats](metrics.plugin.leetcode.svg)
+
+</td>
+</tr>
+</table>
 
 
 ![reactions](./metrics.plugin.reactions.svg)
