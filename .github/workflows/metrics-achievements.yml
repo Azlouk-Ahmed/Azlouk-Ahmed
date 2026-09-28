@@ -9,12 +9,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: moxer-mmh/metrics@main
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: Azlouk-Ahmed
           base: ""
           plugin_achievements: yes
+          plugin_achievements_secrets: no
           plugin_achievements_display: detailed
           plugin_achievements_threshold: C
