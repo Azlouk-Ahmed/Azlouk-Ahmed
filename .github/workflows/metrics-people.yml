@@ -1,0 +1,21 @@
+name: GitHub Metrics - People
+
+on:
+  workflow_dispatch:
+
+jobs:
+  people-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.people.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Azlouk-Ahmed
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers, sponsors, stargazers
+          plugin_people_limit: 24
+          plugin_people_size: 28
