@@ -12,7 +12,11 @@
 
 ---
 
-![snake gif](https://github.com/Azlouk-Ahmed/Azlouk-Ahmed/blob/output/github-snake-dark.svg)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azlouk-Ahmed/Azlouk-Ahmed/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azlouk-Ahmed/Azlouk-Ahmed/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Azlouk-Ahmed/Azlouk-Ahmed/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ---
