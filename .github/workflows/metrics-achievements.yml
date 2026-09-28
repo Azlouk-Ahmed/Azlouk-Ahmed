@@ -1,4 +1,4 @@
-name: Metrics
+name: GitHub Metrics - Achievements
 on:
   schedule: [{cron: "0 * * * *"}]
   workflow_dispatch:
@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: yuanweize/metrics-community@v3.35.0-community.1
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.achievements.svg
