@@ -1,25 +1,32 @@
 name: GitHub Metrics - Habits
 
 on:
+  schedule:
+    - cron: "0 1 * * *"
   workflow_dispatch:
+  push:
+    branches: ["main", "master"]
 
 jobs:
   habits-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: yuanweize/metrics-community@v3.35.0-community.1
         with:
-          filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.habits.svg
           user: Azlouk-Ahmed
           base: ""
           config_timezone: Africa/Tunis
+
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
+
           plugin_habits_days: 14
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
