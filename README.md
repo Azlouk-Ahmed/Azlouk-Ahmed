@@ -16,14 +16,22 @@
 
 </td>
 </tr>
-</table>
-
-
-<p align="center">
+<tr>
+<td valign="top">
 
 ![reactions](./metrics.plugin.reactions.svg)
 
-</p>
+</td>
+<td valign="top">
+
+<img src="./metrics.plugin.people.svg" alt="People" />
+
+</td>
+</tr>
+</table>
+
+
+
 
 ---
 
