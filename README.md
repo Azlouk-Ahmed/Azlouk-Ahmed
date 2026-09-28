@@ -19,7 +19,11 @@
 </table>
 
 
+<p align="center">
+
 ![reactions](./metrics.plugin.reactions.svg)
+
+</p>
 
 ---
 
