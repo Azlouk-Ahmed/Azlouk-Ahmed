@@ -1,41 +1,26 @@
-name: GitHub Metrics
+name: GitHub Metrics - Habits
+
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:  # Allows manual trigger
-  
+  workflow_dispatch:
+
 jobs:
-  github-metrics:
+  habits-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.facts.svg
+          filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: Azlouk-Ahmed
           base: ""
+          config_timezone: Africa/Tunis
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_charts: no
-          config_timezone: Europe/Paris  # Change to your timezone
-          
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.charts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: no
           plugin_habits_charts: yes
-          config_timezone: Europe/Paris  # Change to your timezone
-
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.people.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_people: yes
-          plugin_people_types: followers, sponsors, stargazers
-          plugin_people_limit: 24
-          plugin_people_size: 28
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
