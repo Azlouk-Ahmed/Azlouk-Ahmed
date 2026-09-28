@@ -38,6 +38,18 @@
 
 </td>
 </tr>
+<tr>
+<td valign="top">
+
+![reactions](./metrics.plugin.achievements.svg)
+
+</td>
+<td valign="top">
+
+<img src="./metrics.plugin.habits.svg" alt="People" />
+
+</td>
+</tr>
 </table>
 
 
